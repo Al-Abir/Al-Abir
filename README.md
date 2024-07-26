@@ -14,6 +14,5 @@ Skills: C++ / DSA / Bootstrap / Tailwind / REACT / JavaScript  / MySQL /  Node.j
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Al-abir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-abir&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Al-abir)  
