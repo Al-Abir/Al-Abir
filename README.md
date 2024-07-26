@@ -1,7 +1,7 @@
 
 ### Hi 👋, I'm Washeikh Al Abir
 <hr>
-### A Passionate Backend Web Developer
+<p><b>A Passionate Backend Web Developer</b> <br>
 "I am Washeikh Al Abir, a CSE graduate who loves programming, solving real-world problems, and researching new technologies. The process of learning actually makes it fun and exciting for me."
 
 Skills: C++ / DSA / Bootstrap / Tailwind / REACT / JavaScript  / MySQL /  Node.js / MongoDB
