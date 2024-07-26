@@ -1,13 +1,13 @@
 
-### Hi there 👋, I'm Washeikh Al Abir
-
-
+### Hi 👋, I'm Washeikh Al Abir
+<hr>
+### A Passionate Backend Web Developer
 "I am Washeikh Al Abir, a CSE graduate who loves programming, solving real-world problems, and researching new technologies. The process of learning actually makes it fun and exciting for me."
 
 Skills: C++ / DSA / Bootstrap / Tailwind / REACT / JavaScript  / MySQL /  Node.js / MongoDB
 
-- 🔭 I’m currently working on  I’m currently working on personal project 
-- 🌱 I’m currently learning I am currently learning how to optimize code for the best time and space complexity. 
+- 🔭 I’m currently working on personal project 
+- 🌱 I’m currently learning  how to optimize code for the best time and space complexity. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about   Code Optimize Backend JavaScript  
 
