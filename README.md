@@ -1,4 +1,4 @@
-![](https://t3.ftcdn.net/jpg/02/14/87/96/240_F_214879686_R3HFJlk6WLr1kcdvy6Q9rtNASKN0BZBS.jpg)
+
 
 ### Hi there 👋, I'm Washeikh Al Abir
 
